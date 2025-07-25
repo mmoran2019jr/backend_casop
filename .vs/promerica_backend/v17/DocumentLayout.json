@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mmora\\OneDrive\\Documents\\Prueba_promerica\\promerica_backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56583C0B-1668-4022-B520-507261A5C924}|promerica_backend.csproj|c:\\users\\mmora\\onedrive\\documents\\prueba_promerica\\promerica_backend\\controllers\\puestoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56583C0B-1668-4022-B520-507261A5C924}|promerica_backend.csproj|solutionrelative:controllers\\puestoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56583C0B-1668-4022-B520-507261A5C924}|promerica_backend.csproj|c:\\users\\mmora\\onedrive\\documents\\prueba_promerica\\promerica_backend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56583C0B-1668-4022-B520-507261A5C924}|promerica_backend.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56583C0B-1668-4022-B520-507261A5C924}|promerica_backend.csproj|c:\\users\\mmora\\onedrive\\documents\\prueba_promerica\\promerica_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56583C0B-1668-4022-B520-507261A5C924}|promerica_backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56583C0B-1668-4022-B520-507261A5C924}|promerica_backend.csproj|c:\\users\\mmora\\onedrive\\documents\\prueba_promerica\\promerica_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56583C0B-1668-4022-B520-507261A5C924}|promerica_backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56583C0B-1668-4022-B520-507261A5C924}|promerica_backend.csproj|c:\\users\\mmora\\onedrive\\documents\\prueba_promerica\\promerica_backend\\models\\puestos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56583C0B-1668-4022-B520-507261A5C924}|promerica_backend.csproj|solutionrelative:models\\puestos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 511,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PuestosController.cs",
+              "DocumentMoniker": "C:\\Users\\mmora\\OneDrive\\Documents\\Prueba_promerica\\promerica_backend\\Controllers\\PuestosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PuestosController.cs",
+              "ToolTip": "C:\\Users\\mmora\\OneDrive\\Documents\\Prueba_promerica\\promerica_backend\\Controllers\\PuestosController.cs",
+              "RelativeToolTip": "Controllers\\PuestosController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAswFQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T03:36:55.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mmora\\OneDrive\\Documents\\Prueba_promerica\\promerica_backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mmora\\OneDrive\\Documents\\Prueba_promerica\\promerica_backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T03:35:19.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mmora\\OneDrive\\Documents\\Prueba_promerica\\promerica_backend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\mmora\\OneDrive\\Documents\\Prueba_promerica\\promerica_backend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-23T03:34:02.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mmora\\OneDrive\\Documents\\Prueba_promerica\\promerica_backend\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\mmora\\OneDrive\\Documents\\Prueba_promerica\\promerica_backend\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T03:33:10.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Puestos.cs",
+              "DocumentMoniker": "C:\\Users\\mmora\\OneDrive\\Documents\\Prueba_promerica\\promerica_backend\\Models\\Puestos.cs",
+              "RelativeDocumentMoniker": "Models\\Puestos.cs",
+              "ToolTip": "C:\\Users\\mmora\\OneDrive\\Documents\\Prueba_promerica\\promerica_backend\\Models\\Puestos.cs",
+              "RelativeToolTip": "Models\\Puestos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T03:32:37.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
